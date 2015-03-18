@@ -1,5 +1,9 @@
 ## Contributions
 
+##### gmailgem / gmail
+
+- https://github.com/gmailgem/gmail/pull/167
+
 ##### BeSimple / BeSimpleSoap
 
 - https://github.com/BeSimple/BeSimpleSoap/pull/18
