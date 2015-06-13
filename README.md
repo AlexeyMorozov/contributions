@@ -1,5 +1,9 @@
 ## Contributions
 
+##### alexsergeyev / capistrano-eye
+
+- https://github.com/alexsergeyev/capistrano-eye/pull/5
+
 ##### gmailgem / gmail
 
 - https://github.com/gmailgem/gmail/pull/167
